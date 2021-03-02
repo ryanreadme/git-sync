@@ -1,4 +1,4 @@
-name: Sync OAS to ReadMe
+name: Sync MD to ReadMe
 on:
   push:
     branches:
